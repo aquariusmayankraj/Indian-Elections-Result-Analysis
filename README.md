@@ -42,7 +42,7 @@ Usage Instructions
 
 Intended Audience
 
-Policy makers and election analysts
+* Policy makers and election analysts
 
 * Political parties and campaign strategists
 
@@ -61,8 +61,13 @@ Technical Info
 Contact
 
 For feedback, bugs, or support, please contact me:
+
 Mayank Raj
+
 ironheart.mayank@gmail.com
+
 mayankraj_mc22a14_39@dtu.ac.in
+
 Mathematics and Computing
+
 Delhi Technological University
